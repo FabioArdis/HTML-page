@@ -1,2 +1,3 @@
-# HTML page
-HTML page used to be an example
+# Pagina HTML
+Pagina HTML utilizzabile da esempio.
+Copyright Fabio Ardis 2017

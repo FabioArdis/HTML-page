@@ -5,4 +5,8 @@ This is a simple HTML page used to be for educational purpose.
 
 My [Website](https://fabioardis.altervista.org).
 
+- Languages:
+  - Italian
+  - English
+
 
